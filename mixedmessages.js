@@ -1,1 +1,8 @@
-console.log('Hello Node.js');
+
+# Object that stores array to store the message components
+
+const wealthPredictor = {
+    rightNowMessage: ['Living paycheck to paycheck', 'Struggling to make ends meet', 'In debt and feeling overwhelmed', 'Saving diligently for the future', 'Enjoying financial stability', 'Investing wisely for growth', 'Accumulating wealth steadily', 'Living comfortably off your assets', 'Building multiple streams of income', 'Financially independent and secure'],
+    ifMessage: ['Create a budget and stick to it', 'Invest in your education or skill development', 'Start a side hustle or passive income stream', 'Cut unnecessary expenses and save more', 'Diversify your investment portfolio', 'Network and seek mentorship from successful individuals', 'Continuously educate yourself about personal finance', 'Set specific financial goals and track your progress', 'Take calculated risks in your investments', 'Volunteer or donate to causes you believe in, giving back to your community'],
+    thenMessage: ['On track to financial freedom', 'Able to handle unexpected expenses with ease', 'Building wealth for generations to come', 'Living a life of abundance and fulfillment', 'Confident in your financial future', 'Ready to retire comfortably and enjoy life', 'Inspiring others with your success story', 'Able to pursue your passions without financial constraints', 'Making a positive impact on the world through your resources', 'Living the life you have always dreamed of, free from financial worries'],
+}
